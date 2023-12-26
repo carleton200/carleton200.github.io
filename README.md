@@ -1,3 +1,3 @@
-theme: jekyll-theme-architect
+theme: jekyll-theme-online-cv
 # carleton200.github.io
 ## test
